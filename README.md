@@ -1,24 +1,3 @@
-# voice-translation-app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# ai-
+存放人工智能实训的代码
+>>>>>>> 7db72e7bc2306d9f15ac30b8f58d35d7c95b1fdb
